@@ -1,0 +1,4 @@
+blessed
+requests
+geopy
+# Windows -> tzdata
